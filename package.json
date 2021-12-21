@@ -15,5 +15,13 @@
 	"license": "GPL-3.0-or-later",
 	"directories": {
 		"lib": "lib"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/prokopschield/pretty-print-buffer.git"
+	},
+	"bugs": {
+		"url": "https://github.com/prokopschield/pretty-print-buffer/issues"
+	},
+	"homepage": "https://github.com/prokopschield/pretty-print-buffer#readme"
 }
