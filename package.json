@@ -1,7 +1,7 @@
 {
 	"name": "pretty-print-buffer",
 	"description": "See all unprintable characters in a string by adding ANSI escape codes",
-	"version": "0.1.0-2",
+	"version": "0.1.0-3",
 	"main": "lib/index.js",
 	"bin": {
 		"pretty-print-buffer": "lib/cli.js"
